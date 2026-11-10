@@ -1,6 +1,5 @@
 #Maria Belen Hernandez Vasquez
 # Mapa de la feria científica
-
 mapa = {
     "E": ["C", "J"],
     "C": ["E", "R", "T"],
