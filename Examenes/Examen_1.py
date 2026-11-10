@@ -1,5 +1,6 @@
 #Maria Belen Hernandez Vasquez / CCP
 
+
 class Contenido:
     def __init__(self, titulo, calificacion):
         self.titulo = titulo
